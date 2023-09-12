@@ -5,8 +5,17 @@
 <p>Hello, I'm Margarida and I come from a background in Design. Recently, I decided to embarked on an new career path as a junior full-stack developer, starting with an intensive Web Development bootcamp at Le Wagon in Lisbon. This transition was driven by my interest in coding and my eagerness to learn new skills and be able to combine both my design and software development skills together. Hoping this is just the begining of this new journey!</p>
 
 Feel free to contact me at <strong>margarida.almeida.92@gmail.com</strong>
-<h2 dir="auto"></h2>
 
+<h2 dir="auto"></h2>
+<h3>⭐ Projects</h3>
+<code>Recently finished:</code>
+<a href="http://www.appwater.me/" target="blank">Water Me</a>
+<br>
+<code>Currently working on:</code>
+<a href="https://margarida021.github.io/pawperinos/" target="blank">Pawperinos Landing Page</a>
+
+
+<h2 dir="auto"></h2>  
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby">
