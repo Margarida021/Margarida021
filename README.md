@@ -1,9 +1,9 @@
 <h1 align="center">🌻 Margarida Almeida </h1>
 <p align="center"><code>Junior Full Stack Developer</code></p>
+<img src="github.png" width="160" align="right">
 
 <h3>✏️ About Me</h3>
-<p>Hello, I'm Margarida and I come from a background in Design. Recently, I decided to embarked on an new career path as a junior full-stack developer, starting with an intensive Web Development bootcamp at Le Wagon in Lisbon. This transition was driven by my interest in coding and my eagerness to learn new skills and be able to combine both my design and software development skills together. Hoping this is just the begining of this new journey!</p>
-
+<p>Hello, I'm Margarida and I come from a background in Design. Recently, I decided to embarked on an new career path as a junior full-stack developer, starting with an intensive Web Development bootcamp at Le   Wagon in Lisbon. This transition was driven by my interest in coding and my eagerness to learn new skills and be able to combine both my design and software development skills together. Hoping this is just the   begining of this new journey!</p>
 Feel free to contact me at <strong>margarida.almeida.92@gmail.com</strong>
 
 <h2 dir="auto"></h2>
