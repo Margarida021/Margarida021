@@ -1,5 +1,5 @@
 <h1 align="center">🌻 Margarida Almeida 🌻 </h1>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=space+mono&duration=4000&pause=500&color=F1D8B0&background=3C434D&center=true&vCenter=true&width=435&lines=Junior+Full-Stack+Web+Developer;Designer" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=space+mono&duration=4000&pause=500&color=F1D8B0&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Junior+Full-Stack+Web+Developer;Designer" alt="Typing SVG" /></a></p>
 <img src="github.png" width="160" align="right">
 
 <h3>✏️ About Me</h3>
