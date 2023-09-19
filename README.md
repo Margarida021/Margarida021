@@ -9,10 +9,10 @@ Feel free to contact me at <strong>ana.margarida.almeida92@gmail.com</strong>
 <h2 dir="auto"></h2>
 <h3>⭐ Projects</h3>
 <code>Recently finished:</code>
-<a href="http://www.appwater.me/" target="blank">Water Me</a>
+<a href="http://www.appwater.me/" target="blank">Water Me</a> (Web Application) 
 <br>
 <code>Currently working on:</code>
-<a href="https://margarida021.github.io/pawperinos/" target="blank">Pawperinos Landing Page</a>
+<a href="https://margarida021.github.io/pawperinos/" target="blank">Pawperinos</a> (Landing Page)
 
 
 <h2 dir="auto"></h2>  
