@@ -1,6 +1,6 @@
 <h1 align="center">🌻 Margarida Almeida 🌻 </h1>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=space+mono&duration=4000&pause=500&color=F1D8B0&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Junior+Full-Stack+Web+Developer;Designer" alt="Typing SVG" /></a></p>
-<img src="github_image.png" width="200" align="right">
+<img src="image_github.png" width="200" align="right">
 
 <h3>✏️ About Me</h3>
 <p>Hello, I'm Margarida and I come from a background in Design. Recently, I decided to embarked on an new career path as a junior full-stack developer, starting with an intensive Web Development bootcamp at Le   Wagon in Lisbon. This transition was driven by my interest in coding and my eagerness to learn new skills and be able to combine both my design and software development skills together. Hoping this is just the   begining of this new journey!</p>
