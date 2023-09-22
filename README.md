@@ -5,6 +5,8 @@
 <h3>✏️ About Me</h3>
 <p>Hello, I'm Margarida and I have a background in Design. Recently, I decided to embark on a new career path as a junior full-stack developer, starting with an intensive Web Development bootcamp at Le Wagon in Lisbon. This transition was driven by my interest in coding and my eagerness learning new skills and being able to combine both my design and software development skills together. I hope this is just the first step on a fun and challenging journey!</p>
 Feel free to contact me at <strong>ana.margarida.almeida92@gmail.com</strong>
+<br>
+<p>Download my CV <a href="assets/CV.pdf" download="">Margarida Almeida CV</a></p>
 
 <h2 dir="auto"></h2>
 <h3>⭐ Projects</h3>
