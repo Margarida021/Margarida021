@@ -3,7 +3,8 @@
 <img src="image_github.png" width="200" align="right">
 
 <h3>✏️ About Me</h3>
-<p>Hello, I'm Margarida and I'm a Frontend Developer with a background in Design. In 2023 I finished a Web Development bootcamp at Le Wagon in Lisbon which was the start of my journey in coding. I love to keep learning new skills and be able to combine both my design and software development skills together!</p>
+<p>Hello, I'm Margarida and I'm a Frontend Developer with a background in Design. In 2023 I finished a Web Development bootcamp at Le Wagon in Lisbon which was the start of my journey in coding.
+I love to keep learning new skills and be able to combine both my design and software development skills together!</p>
 Feel free to contact me at <strong>ana.margarida.almeida92@gmail.com</strong>
 <br>
 <p>Download my CV <a href="assets/CV.pdf" download="">Margarida Almeida CV</a></p>
