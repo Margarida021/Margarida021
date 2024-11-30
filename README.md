@@ -11,11 +11,7 @@ Feel free to contact me at <strong>ana.margarida.almeida92@gmail.com</strong>
 <h2 dir="auto"></h2>
 <h3>⭐ Projects</h3>
 <code>Recently finished:</code>
-<a href="http://www.appwater.me/" target="blank">Water Me</a> (Web Application) 
-<br>
-<code>Currently working on:</code>
-<a href="https://margarida021.github.io/pawperinos/" target="blank">Pawperinos</a> (Landing Page)
-
+<a href="http://www.appwater.me/" target="blank">Water Me</a> (Web Application)
 
 <h2 dir="auto"></h2>  
 <h3 align="left">💻 Languages and Tools:</h3>
@@ -24,6 +20,7 @@ Feel free to contact me at <strong>ana.margarida.almeida92@gmail.com</strong>
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="rubyonrails">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
+  <img src="https://img.shields.io/badge/Vue3-1572B6?style=for-the-badge&logo=vue3&logoColor=white" alt="vue3">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
