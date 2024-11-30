@@ -3,7 +3,7 @@
 <img src="image_github.png" width="200" align="right">
 
 <h3>✏️ About Me</h3>
-<p>Hello, I'm Margarida and I'm a Frontend Developer with a background in Design. In 2023 I finished a Web Development bootcamp at Le Wagon in Lisbon which was the start of my journey in coding. I'm eager to learn new skills and be able to combine both my design and software development skills together!</p>
+<p>Hello, I'm Margarida and I'm a Frontend Developer with a background in Design. In 2023 I finished a Web Development bootcamp at Le Wagon in Lisbon which was the start of my journey in coding. I love to keep learning new skills and be able to combine both my design and software development skills together!</p>
 Feel free to contact me at <strong>ana.margarida.almeida92@gmail.com</strong>
 <br>
 <p>Download my CV <a href="assets/CV.pdf" download="">Margarida Almeida CV</a></p>
@@ -23,8 +23,6 @@ Feel free to contact me at <strong>ana.margarida.almeida92@gmail.com</strong>
   <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" alt="vuetify">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite">
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
