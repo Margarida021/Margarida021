@@ -7,7 +7,7 @@
 I love to keep learning new skills and be able to combine both my design and software development skills together!</p>
 Feel free to contact me at <strong>ana.margarida.almeida92@gmail.com</strong>
 <br>
-<p>Download my CV <a href="assets/CV.pdf" download="">Margarida Almeida CV</a></p>
+<p>Download my CV <a href="Margarida_Almeida_CV24.pdf" download="">Margarida Almeida CV</a></p>
 
 <h2 dir="auto"></h2>  
 <h3 align="left">💻 Languages and Tools:</h3>
